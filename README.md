@@ -1,4 +1,4 @@
-# CS250 Project 1
+# CS210 Project 1
 
 # Chada Tech Clock
 
